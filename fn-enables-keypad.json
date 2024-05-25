@@ -7,7 +7,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -28,7 +28,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -49,7 +49,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -70,7 +70,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -91,7 +91,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -112,7 +112,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -133,7 +133,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -154,7 +154,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -175,7 +175,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
@@ -196,7 +196,7 @@
                 "modifiers": {
                     "mandatory": [
 		      "left_shift",
-		      "left_command"
+		      "left_option"
 		    ],
                     "optional": [
                         "any"
